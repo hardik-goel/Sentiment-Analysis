@@ -1,5 +1,7 @@
-A Sentiment analyzer based on customer reviews for an ecommerce data to predict user sentimentusing NLTK.
-This custom analyzer competes with one of the popular sentiment analyzer - VADER and focuses on mitigating its drawbacks.
+This Sentiment analyzer is a custom analyzer based on customer reviews for an ecommerce data to predict user sentimentusing NLTK.
+This custom analyzer is an alternative to one of the most popular sentiment analyzer - VADER sentiment analyzer.
 It makes use of two algorithms : Logistic Regression and Multinomial Naive Bayes.
 
-Author: Hardik Goel
+Language used:
+
+Python - 3.7
